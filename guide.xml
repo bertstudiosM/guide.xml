@@ -82,22 +82,94 @@
   </channel>
   <channel id="VideoRola">
     <display-name lang="es">VideoRola</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/video_rola-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal TLNovelas (México)">
     <display-name lang="es">Canal TLNovelas (México)</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="AztecaGuate">
     <display-name lang="es">AztecaGuate</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_guate-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Adn40">
     <display-name lang="es">Adn40</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MTVHits">
+    <display-name lang="es">MTVHits</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Universo">
+    <display-name lang="es">Universo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SonyMex">
+    <display-name lang="es">SonyMex</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AdrenalinaSports">
+    <display-name lang="es">AdrenalinaSports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ANIMALPLANET">
+    <display-name lang="es">ANIMALPLANET</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery World Latinoamérica">
+    <display-name lang="es">Canal Discovery World Latinoamérica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AXN (México)">
+    <display-name lang="es">Canal AXN (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AMC (México)">
+    <display-name lang="es">Canal AMC (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal (México)">
+    <display-name lang="es">Canal Cinecanal (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telehit Plus">
+    <display-name lang="es">Canal Telehit Plus</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Bandamax">
+    <display-name lang="es">Canal Bandamax</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Movies">
+    <display-name lang="es">Canal Fox Premium Movies</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoon Network (México)">
+    <display-name lang="es">Canal Cartoon Network (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Claro Sports">
+    <display-name lang="es">Canal Claro Sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal WAPA-TV">
+    <display-name lang="es">Canal WAPA-TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Sports Mexico">
+    <display-name lang="es">Fox Sports Mexico</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Azteca 7">
+    <display-name lang="es">Azteca 7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="es">Boomerang</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 2 México">
+    <display-name lang="es">Canal ESPN 2 México</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20201122003000 -0600" stop="20201122012000 -0600" channel="TelemundMx">
@@ -3507,785 +3579,5 @@
   </programme>
   <programme start="20201128020000 -0600" stop="20201128040000 -0600" channel="afizzionadosa">
     <title lang="es">Guadalajara vs. Mazatlán</title>
-  </programme>
-  <programme start="20201122010000 -0600" stop="20201122020000 -0600" channel="VideoRola">
-    <title lang="es">VR Mix</title>
-  </programme>
-  <programme start="20201122020000 -0600" stop="20201122030000 -0600" channel="VideoRola">
-    <title lang="es">VR Mix</title>
-  </programme>
-  <programme start="20201122030000 -0600" stop="20201122040000 -0600" channel="VideoRola">
-    <title lang="es">Beat urbano</title>
-  </programme>
-  <programme start="20201122040000 -0600" stop="20201122050000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201122050000 -0600" stop="20201122060000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201122060000 -0600" stop="20201122070000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201122070000 -0600" stop="20201122080000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201122080000 -0600" stop="20201122090000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201122090000 -0600" stop="20201122093000 -0600" channel="VideoRola">
-    <title lang="es">Menos kilos más música</title>
-  </programme>
-  <programme start="20201122093000 -0600" stop="20201122100000 -0600" channel="VideoRola">
-    <title lang="es">Mini Conciertos</title>
-  </programme>
-  <programme start="20201122100000 -0600" stop="20201122110000 -0600" channel="VideoRola">
-    <title lang="es">Las Gruperronas</title>
-  </programme>
-  <programme start="20201122110000 -0600" stop="20201122120000 -0600" channel="VideoRola">
-    <title lang="es">Videorecuerdos</title>
-  </programme>
-  <programme start="20201122120000 -0600" stop="20201122130000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201122130000 -0600" stop="20201122140000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201122140000 -0600" stop="20201122150000 -0600" channel="VideoRola">
-    <title lang="es">El Ranking</title>
-  </programme>
-  <programme start="20201122150000 -0600" stop="20201122160000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201122160000 -0600" stop="20201122163000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201122163000 -0600" stop="20201122170000 -0600" channel="VideoRola">
-    <title lang="es">Sala musical</title>
-  </programme>
-  <programme start="20201122170000 -0600" stop="20201122180000 -0600" channel="VideoRola">
-    <title lang="es">Las Gruperronas</title>
-  </programme>
-  <programme start="20201122180000 -0600" stop="20201122190000 -0600" channel="VideoRola">
-    <title lang="es">Videorecuerdos</title>
-  </programme>
-  <programme start="20201122190000 -0600" stop="20201122200000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201122200000 -0600" stop="20201122210000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201122210000 -0600" stop="20201122220000 -0600" channel="VideoRola">
-    <title lang="es">El Ranking</title>
-  </programme>
-  <programme start="20201122220000 -0600" stop="20201122223000 -0600" channel="VideoRola">
-    <title lang="es">Los consentidos</title>
-  </programme>
-  <programme start="20201122223000 -0600" stop="20201122230000 -0600" channel="VideoRola">
-    <title lang="es">Sala musical</title>
-  </programme>
-  <programme start="20201122230000 -0600" stop="20201123000000 -0600" channel="VideoRola">
-    <title lang="es">Los consentidos</title>
-  </programme>
-  <programme start="20201123000000 -0600" stop="20201123010000 -0600" channel="VideoRola">
-    <title lang="es">Beat urbano</title>
-  </programme>
-  <programme start="20201123010000 -0600" stop="20201123020000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201123020000 -0600" stop="20201123030000 -0600" channel="VideoRola">
-    <title lang="es">PM</title>
-  </programme>
-  <programme start="20201123030000 -0600" stop="20201123040000 -0600" channel="VideoRola">
-    <title lang="es">PM</title>
-  </programme>
-  <programme start="20201123093000 -0600" stop="20201123100000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201123100000 -0600" stop="20201123110000 -0600" channel="VideoRola">
-    <title lang="es">Las Gruperronas</title>
-  </programme>
-  <programme start="20201123110000 -0600" stop="20201123120000 -0600" channel="VideoRola">
-    <title lang="es">El Ranking</title>
-  </programme>
-  <programme start="20201123120000 -0600" stop="20201123130000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201123130000 -0600" stop="20201123140000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201123140000 -0600" stop="20201123150000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201123150000 -0600" stop="20201123160000 -0600" channel="VideoRola">
-    <title lang="es">Dedicadas</title>
-  </programme>
-  <programme start="20201123160000 -0600" stop="20201123170000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201123170000 -0600" stop="20201123180000 -0600" channel="VideoRola">
-    <title lang="es">EnReDos</title>
-  </programme>
-  <programme start="20201123180000 -0600" stop="20201123190000 -0600" channel="VideoRola">
-    <title lang="es">Frente a frente</title>
-  </programme>
-  <programme start="20201123190000 -0600" stop="20201123193000 -0600" channel="VideoRola">
-    <title lang="es">El Reto</title>
-  </programme>
-  <programme start="20201123193000 -0600" stop="20201123200000 -0600" channel="VideoRola">
-    <title lang="es">Sala musical</title>
-  </programme>
-  <programme start="20201123200000 -0600" stop="20201123210000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201123210000 -0600" stop="20201123220000 -0600" channel="VideoRola">
-    <title lang="es">Dedicadas</title>
-  </programme>
-  <programme start="20201123220000 -0600" stop="20201123230000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201123230000 -0600" stop="20201124000000 -0600" channel="VideoRola">
-    <title lang="es">Beat urbano</title>
-  </programme>
-  <programme start="20201124000000 -0600" stop="20201124010000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201124070000 -0600" stop="20201124073000 -0600" channel="VideoRola">
-    <title lang="es">El Reto</title>
-  </programme>
-  <programme start="20201124073000 -0600" stop="20201124080000 -0600" channel="VideoRola">
-    <title lang="es">Sala musical</title>
-  </programme>
-  <programme start="20201124080000 -0600" stop="20201124090000 -0600" channel="VideoRola">
-    <title lang="es">Frente a frente</title>
-  </programme>
-  <programme start="20201124090000 -0600" stop="20201124100000 -0600" channel="VideoRola">
-    <title lang="es">EnReDos</title>
-  </programme>
-  <programme start="20201124100000 -0600" stop="20201124103000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201124103000 -0600" stop="20201124110000 -0600" channel="VideoRola">
-    <title lang="es">Mini Conciertos</title>
-  </programme>
-  <programme start="20201124110000 -0600" stop="20201124120000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201124120000 -0600" stop="20201124130000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201124130000 -0600" stop="20201124140000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201124140000 -0600" stop="20201124150000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201124150000 -0600" stop="20201124160000 -0600" channel="VideoRola">
-    <title lang="es">Mini Conciertos</title>
-  </programme>
-  <programme start="20201124160000 -0600" stop="20201124170000 -0600" channel="VideoRola">
-    <title lang="es">Videorecuerdos</title>
-  </programme>
-  <programme start="20201124170000 -0600" stop="20201124180000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201124180000 -0600" stop="20201124190000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201124190000 -0600" stop="20201124200000 -0600" channel="VideoRola">
-    <title lang="es">ATM</title>
-  </programme>
-  <programme start="20201124200000 -0600" stop="20201124210000 -0600" channel="VideoRola">
-    <title lang="es">Dedicadas</title>
-  </programme>
-  <programme start="20201124210000 -0600" stop="20201124220000 -0600" channel="VideoRola">
-    <title lang="es">Las Gruperronas</title>
-  </programme>
-  <programme start="20201124220000 -0600" stop="20201124230000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201124230000 -0600" stop="20201124233000 -0600" channel="VideoRola">
-    <title lang="es">Menos kilos más música</title>
-  </programme>
-  <programme start="20201124233000 -0600" stop="20201125000000 -0600" channel="VideoRola">
-    <title lang="es">Mini Conciertos</title>
-  </programme>
-  <programme start="20201125000000 -0600" stop="20201125010000 -0600" channel="VideoRola">
-    <title lang="es">ATM</title>
-  </programme>
-  <programme start="20201125070000 -0600" stop="20201125080000 -0600" channel="VideoRola">
-    <title lang="es">El Ranking</title>
-  </programme>
-  <programme start="20201125080000 -0600" stop="20201125083000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201125083000 -0600" stop="20201125090000 -0600" channel="VideoRola">
-    <title lang="es">Mini Conciertos</title>
-  </programme>
-  <programme start="20201125090000 -0600" stop="20201125100000 -0600" channel="VideoRola">
-    <title lang="es">ATM</title>
-  </programme>
-  <programme start="20201125100000 -0600" stop="20201125103000 -0600" channel="VideoRola">
-    <title lang="es">Menos kilos más música</title>
-  </programme>
-  <programme start="20201125103000 -0600" stop="20201125110000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201125110000 -0600" stop="20201125120000 -0600" channel="VideoRola">
-    <title lang="es">Las Gruperronas</title>
-  </programme>
-  <programme start="20201125120000 -0600" stop="20201125130000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201125150000 -0600" stop="20201125160000 -0600" channel="VideoRola">
-    <title lang="es">Dedicadas</title>
-  </programme>
-  <programme start="20201125160000 -0600" stop="20201125170000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201125170000 -0600" stop="20201125180000 -0600" channel="VideoRola">
-    <title lang="es">EnReDos</title>
-  </programme>
-  <programme start="20201125190000 -0600" stop="20201125193000 -0600" channel="VideoRola">
-    <title lang="es">El Reto</title>
-  </programme>
-  <programme start="20201125193000 -0600" stop="20201125200000 -0600" channel="VideoRola">
-    <title lang="es">Sala musical</title>
-  </programme>
-  <programme start="20201125200000 -0600" stop="20201125210000 -0600" channel="VideoRola">
-    <title lang="es">Videorecuerdos</title>
-  </programme>
-  <programme start="20201125210000 -0600" stop="20201125220000 -0600" channel="VideoRola">
-    <title lang="es">Dedicadas</title>
-  </programme>
-  <programme start="20201125220000 -0600" stop="20201125230000 -0600" channel="VideoRola">
-    <title lang="es">Beat urbano</title>
-  </programme>
-  <programme start="20201125230000 -0600" stop="20201126000000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201126080000 -0600" stop="20201126090000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201126110000 -0600" stop="20201126120000 -0600" channel="VideoRola">
-    <title lang="es">El Ranking</title>
-  </programme>
-  <programme start="20201126210000 -0600" stop="20201126220000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201126220000 -0600" stop="20201126230000 -0600" channel="VideoRola">
-    <title lang="es">Música Para Tus Ojos</title>
-  </programme>
-  <programme start="20201127070000 -0600" stop="20201127080000 -0600" channel="VideoRola">
-    <title lang="es">En Concierto</title>
-  </programme>
-  <programme start="20201127110000 -0600" stop="20201127120000 -0600" channel="VideoRola">
-    <title lang="es">Mini Conciertos</title>
-  </programme>
-  <programme start="20201127160000 -0600" stop="20201127170000 -0600" channel="VideoRola">
-    <title lang="es">Las Gruperronas</title>
-  </programme>
-  <programme start="20201127180000 -0600" stop="20201127190000 -0600" channel="VideoRola">
-    <title lang="es">Frente a frente</title>
-  </programme>
-  <programme start="20201127220000 -0600" stop="20201127230000 -0600" channel="VideoRola">
-    <title lang="es">Karaoke</title>
-  </programme>
-  <programme start="20201127230000 -0600" stop="20201128000000 -0600" channel="VideoRola">
-    <title lang="es">Beat urbano</title>
-  </programme>
-  <programme start="20201128000000 -0600" stop="20201128010000 -0600" channel="VideoRola">
-    <title lang="es">El Ranking</title>
-  </programme>
-  <programme start="20201122013000 -0600" stop="20201122033000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201122033000 -0600" stop="20201122053000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201122053000 -0600" stop="20201122070000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201122070000 -0600" stop="20201122084000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La mentira</title>
-  </programme>
-  <programme start="20201122084000 -0600" stop="20201122120500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Porque el amor manda</title>
-  </programme>
-  <programme start="20201122120500 -0600" stop="20201122152500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rebelde</title>
-  </programme>
-  <programme start="20201122152500 -0600" stop="20201122170000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201122170000 -0600" stop="20201122180000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Confesiones</title>
-  </programme>
-  <programme start="20201122180000 -0600" stop="20201122200000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La fea más bella</title>
-  </programme>
-  <programme start="20201122200000 -0600" stop="20201122220000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La fea más bella</title>
-  </programme>
-  <programme start="20201122220000 -0600" stop="20201122221500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La fea más bella</title>
-  </programme>
-  <programme start="20201122221500 -0600" stop="20201123003500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rubi</title>
-  </programme>
-  <programme start="20201123003500 -0600" stop="20201123013500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">L5 Mejores</title>
-  </programme>
-  <programme start="20201123013500 -0600" stop="20201123032000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">El Color de la Pasión</title>
-  </programme>
-  <programme start="20201123032000 -0600" stop="20201123050500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rubi</title>
-  </programme>
-  <programme start="20201123050500 -0600" stop="20201123065500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201123065500 -0600" stop="20201123083000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La mentira</title>
-  </programme>
-  <programme start="20201123083000 -0600" stop="20201123101000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Porque el amor manda</title>
-  </programme>
-  <programme start="20201123101000 -0600" stop="20201123114500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">El Color de la Pasión</title>
-  </programme>
-  <programme start="20201123114500 -0600" stop="20201123132000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201123132000 -0600" stop="20201123150000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rubi</title>
-  </programme>
-  <programme start="20201123150000 -0600" stop="20201123173000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Clase 406</title>
-  </programme>
-  <programme start="20201123173000 -0600" stop="20201123190500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La mentira</title>
-  </programme>
-  <programme start="20201123190500 -0600" stop="20201123204500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Porque el amor manda</title>
-  </programme>
-  <programme start="20201123204500 -0600" stop="20201123222000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201123222000 -0600" stop="20201124000000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rubi</title>
-  </programme>
-  <programme start="20201124000000 -0600" stop="20201124013500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La mentira</title>
-  </programme>
-  <programme start="20201124013500 -0600" stop="20201124032000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">El Color de la Pasión</title>
-  </programme>
-  <programme start="20201124032000 -0600" stop="20201124050500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rubi</title>
-  </programme>
-  <programme start="20201124050500 -0600" stop="20201124065500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201124065500 -0600" stop="20201124083000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La mentira</title>
-  </programme>
-  <programme start="20201124083000 -0600" stop="20201124101000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Porque el amor manda</title>
-  </programme>
-  <programme start="20201124101000 -0600" stop="20201124114500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">El Color de la Pasión</title>
-  </programme>
-  <programme start="20201124114500 -0600" stop="20201124132000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201124132000 -0600" stop="20201124150000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rubi</title>
-  </programme>
-  <programme start="20201124150000 -0600" stop="20201124173000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Clase 406</title>
-  </programme>
-  <programme start="20201124173000 -0600" stop="20201124190500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">La mentira</title>
-  </programme>
-  <programme start="20201124190500 -0600" stop="20201124204500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Porque el amor manda</title>
-  </programme>
-  <programme start="20201124204500 -0600" stop="20201124222000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">En nombre del amor</title>
-  </programme>
-  <programme start="20201124222000 -0600" stop="20201125000000 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">Rubi</title>
-  </programme>
-  <programme start="20201125013500 -0600" stop="20201125033500 -0600" channel="Canal TLNovelas (México)">
-    <title lang="es">El Color de la Pasión</title>
-  </programme>
-  <programme start="20201122010000 -0600" stop="20201122013000 -0600" channel="AztecaGuate">
-    <title lang="es">Casa de dios</title>
-  </programme>
-  <programme start="20201122013000 -0600" stop="20201122030000 -0600" channel="AztecaGuate">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20201122030000 -0600" stop="20201122043000 -0600" channel="AztecaGuate">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20201122043000 -0600" stop="20201122060000 -0600" channel="AztecaGuate">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20201122060000 -0600" stop="20201122070000 -0600" channel="AztecaGuate">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20201122070000 -0600" stop="20201122083000 -0600" channel="AztecaGuate">
-    <title lang="es">El Lobo Solitario</title>
-  </programme>
-  <programme start="20201122083000 -0600" stop="20201122093000 -0600" channel="AztecaGuate">
-    <title lang="es">Servicio casa de Dios</title>
-  </programme>
-  <programme start="20201122093000 -0600" stop="20201122100000 -0600" channel="AztecaGuate">
-    <title lang="es">Molang</title>
-  </programme>
-  <programme start="20201122100000 -0600" stop="20201122103000 -0600" channel="AztecaGuate">
-    <title lang="es">Sésamo</title>
-  </programme>
-  <programme start="20201122103000 -0600" stop="20201122110000 -0600" channel="AztecaGuate">
-    <title lang="es">Pocoyó</title>
-  </programme>
-  <programme start="20201122110000 -0600" stop="20201122113000 -0600" channel="AztecaGuate">
-    <title lang="es">Larva</title>
-  </programme>
-  <programme start="20201122113000 -0600" stop="20201122120000 -0600" channel="AztecaGuate">
-    <title lang="es">El Reino Infantil</title>
-  </programme>
-  <programme start="20201122120000 -0600" stop="20201122123000 -0600" channel="AztecaGuate">
-    <title lang="es">Rev &amp; Roll</title>
-  </programme>
-  <programme start="20201122123000 -0600" stop="20201122130000 -0600" channel="AztecaGuate">
-    <title lang="es">Vera y el reino infantil</title>
-  </programme>
-  <programme start="20201122130000 -0600" stop="20201122140000 -0600" channel="AztecaGuate">
-    <title lang="es">Santa Misa - México</title>
-  </programme>
-  <programme start="20201122140000 -0600" stop="20201122143000 -0600" channel="AztecaGuate">
-    <title lang="es">Guatefly</title>
-  </programme>
-  <programme start="20201122143000 -0600" stop="20201122160000 -0600" channel="AztecaGuate">
-    <title lang="es">DDC</title>
-  </programme>
-  <programme start="20201122160000 -0600" stop="20201122174500 -0600" channel="AztecaGuate">
-    <title lang="es">Karroll's Christmas</title>
-  </programme>
-  <programme start="20201122174500 -0600" stop="20201122193000 -0600" channel="AztecaGuate">
-    <title lang="es">Un día inolvidable</title>
-  </programme>
-  <programme start="20201122193000 -0600" stop="20201122210000 -0600" channel="AztecaGuate">
-    <title lang="es">Mi pobre angelito 4</title>
-  </programme>
-  <programme start="20201122210000 -0600" stop="20201122220000 -0600" channel="AztecaGuate">
-    <title lang="es">Hechos - Fin de semana</title>
-  </programme>
-  <programme start="20201122220000 -0600" stop="20201122234500 -0600" channel="AztecaGuate">
-    <title lang="es">Hada por accidente</title>
-  </programme>
-  <programme start="20201122234500 -0600" stop="20201123000000 -0600" channel="AztecaGuate">
-    <title lang="es">DDC</title>
-  </programme>
-  <programme start="20201123000000 -0600" stop="20201123003000 -0600" channel="AztecaGuate">
-    <title lang="es">Casa de dios</title>
-  </programme>
-  <programme start="20201123003000 -0600" stop="20201123030000 -0600" channel="AztecaGuate">
-    <title lang="es">Lo Mejor de 'Venga la Alegría</title>
-  </programme>
-  <programme start="20201123030000 -0600" stop="20201123043000 -0600" channel="AztecaGuate">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20201123043000 -0600" stop="20201123060000 -0600" channel="AztecaGuate">
-    <title lang="es">Cine clásico mexicano</title>
-  </programme>
-  <programme start="20201123060000 -0600" stop="20201123063000 -0600" channel="AztecaGuate">
-    <title lang="es">Azteca hits</title>
-  </programme>
-  <programme start="20201123063000 -0600" stop="20201123080000 -0600" channel="AztecaGuate">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20201123080000 -0600" stop="20201123100000 -0600" channel="AztecaGuate">
-    <title lang="es">Café A.M</title>
-  </programme>
-  <programme start="20201123100000 -0600" stop="20201123140000 -0600" channel="AztecaGuate">
-    <title lang="es">Venga la alegría</title>
-  </programme>
-  <programme start="20201123140000 -0600" stop="20201123150000 -0600" channel="AztecaGuate">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20201123150000 -0600" stop="20201123160000 -0600" channel="AztecaGuate">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20201123160000 -0600" stop="20201123170000 -0600" channel="AztecaGuate">
-    <title lang="es">Ventaneando</title>
-  </programme>
-  <programme start="20201123170000 -0600" stop="20201123180000 -0600" channel="AztecaGuate">
-    <title lang="es">Azteca hits</title>
-  </programme>
-  <programme start="20201123180000 -0600" stop="20201123190000 -0600" channel="AztecaGuate">
-    <title lang="es">Que chilero</title>
-  </programme>
-  <programme start="20201122010000 -0600" stop="20201122011500 -0600" channel="Adn40">
-    <title lang="es">La entrevista con Sarmiento</title>
-  </programme>
-  <programme start="20201122011500 -0600" stop="20201122013000 -0600" channel="Adn40">
-    <title lang="es">Ruta ADN 40</title>
-  </programme>
-  <programme start="20201122013000 -0600" stop="20201122014500 -0600" channel="Adn40">
-    <title lang="es">Frente a frente</title>
-  </programme>
-  <programme start="20201122014500 -0600" stop="20201122020000 -0600" channel="Adn40">
-    <title lang="es">Punto de Fuga</title>
-  </programme>
-  <programme start="20201122020000 -0600" stop="20201122033000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201122033000 -0600" stop="20201122043000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201122043000 -0600" stop="20201122060000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201122060000 -0600" stop="20201122083000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201122083000 -0600" stop="20201122090000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201122090000 -0600" stop="20201122110000 -0600" channel="Adn40">
-    <title lang="es">Es de Mañana con Max Espejel</title>
-  </programme>
-  <programme start="20201122110000 -0600" stop="20201122120000 -0600" channel="Adn40">
-    <title lang="es">Noticias Jorge Armando Rocha</title>
-  </programme>
-  <programme start="20201122120000 -0600" stop="20201122130000 -0600" channel="Adn40">
-    <title lang="es">Noticias de Ida y Vuelta</title>
-  </programme>
-  <programme start="20201122130000 -0600" stop="20201122140000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Max Espejel</title>
-  </programme>
-  <programme start="20201122140000 -0600" stop="20201122150000 -0600" channel="Adn40">
-    <title lang="es">ADN Deportes</title>
-  </programme>
-  <programme start="20201122150000 -0600" stop="20201122160000 -0600" channel="Adn40">
-    <title lang="es">Es Tendencia con Max Espejel</title>
-  </programme>
-  <programme start="20201122160000 -0600" stop="20201122170000 -0600" channel="Adn40">
-    <title lang="es">Noticias de Ida y Vuelta</title>
-  </programme>
-  <programme start="20201122170000 -0600" stop="20201122180000 -0600" channel="Adn40">
-    <title lang="es">Es Tendencia con Max Espejel</title>
-  </programme>
-  <programme start="20201122180000 -0600" stop="20201122190000 -0600" channel="Adn40">
-    <title lang="es">El Foco</title>
-  </programme>
-  <programme start="20201122190000 -0600" stop="20201122193000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Alejandro Brofft</title>
-  </programme>
-  <programme start="20201122193000 -0600" stop="20201122200000 -0600" channel="Adn40">
-    <title lang="es">La otra aventura</title>
-  </programme>
-  <programme start="20201122200000 -0600" stop="20201122203000 -0600" channel="Adn40">
-    <title lang="es">Expansión</title>
-  </programme>
-  <programme start="20201122203000 -0600" stop="20201122210000 -0600" channel="Adn40">
-    <title lang="es">El Refugio</title>
-  </programme>
-  <programme start="20201122210000 -0600" stop="20201122220000 -0600" channel="Adn40">
-    <title lang="es">Noticias Jorge Armando Rocha</title>
-  </programme>
-  <programme start="20201122220000 -0600" stop="20201122230000 -0600" channel="Adn40">
-    <title lang="es">Político MX</title>
-  </programme>
-  <programme start="20201122230000 -0600" stop="20201122233000 -0600" channel="Adn40">
-    <title lang="es">De Cabeza con Andrés Roemer</title>
-  </programme>
-  <programme start="20201122233000 -0600" stop="20201123000000 -0600" channel="Adn40">
-    <title lang="es">Marcaje personal</title>
-  </programme>
-  <programme start="20201123000000 -0600" stop="20201123003000 -0600" channel="Adn40">
-    <title lang="es">Séptimo Día</title>
-  </programme>
-  <programme start="20201123003000 -0600" stop="20201123020000 -0600" channel="Adn40">
-    <title lang="es">Es Noticia con Jorge A. Rocha</title>
-  </programme>
-  <programme start="20201123020000 -0600" stop="20201123060000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201123060000 -0600" stop="20201123063000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201123063000 -0600" stop="20201123080000 -0600" channel="Adn40">
-    <title lang="es">Noticias para despertar</title>
-  </programme>
-  <programme start="20201123080000 -0600" stop="20201123090000 -0600" channel="Adn40">
-    <title lang="es">Así Amanece Leonardo Curzio</title>
-  </programme>
-  <programme start="20201123090000 -0600" stop="20201123110000 -0600" channel="Adn40">
-    <title lang="es">Es de Mañana con Mónica Garza</title>
-  </programme>
-  <programme start="20201123110000 -0600" stop="20201123120000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Vaitiare Mateos</title>
-  </programme>
-  <programme start="20201123120000 -0600" stop="20201123130000 -0600" channel="Adn40">
-    <title lang="es">Tu Mundo en Tiempo Real</title>
-  </programme>
-  <programme start="20201123130000 -0600" stop="20201123140000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Lucy Bravo</title>
-  </programme>
-  <programme start="20201123140000 -0600" stop="20201123160000 -0600" channel="Adn40">
-    <title lang="es">ADN40 en Línea</title>
-  </programme>
-  <programme start="20201123160000 -0600" stop="20201123170000 -0600" channel="Adn40">
-    <title lang="es">Es Tendencia</title>
-  </programme>
-  <programme start="20201123170000 -0600" stop="20201123180000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Romina Ramos</title>
-  </programme>
-  <programme start="20201123180000 -0600" stop="20201123190000 -0600" channel="Adn40">
-    <title lang="es">Noticias Luciana Wainer</title>
-  </programme>
-  <programme start="20201123190000 -0600" stop="20201123200000 -0600" channel="Adn40">
-    <title lang="es">Noticias Valentina Rodríguez</title>
-  </programme>
-  <programme start="20201123200000 -0600" stop="20201123210000 -0600" channel="Adn40">
-    <title lang="es">Tu Ciudad en Tiempo Real</title>
-  </programme>
-  <programme start="20201123210000 -0600" stop="20201123220000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Alejandro Brofft</title>
-  </programme>
-  <programme start="20201123220000 -0600" stop="20201123230000 -0600" channel="Adn40">
-    <title lang="es">Es Noticia con Hannia Novell</title>
-  </programme>
-  <programme start="20201123230000 -0600" stop="20201124000000 -0600" channel="Adn40">
-    <title lang="es">Noticias Republica MX</title>
-  </programme>
-  <programme start="20201124000000 -0600" stop="20201124003000 -0600" channel="Adn40">
-    <title lang="es">Todo Personal</title>
-  </programme>
-  <programme start="20201124003000 -0600" stop="20201124004500 -0600" channel="Adn40">
-    <title lang="es">Primer Círculo</title>
-  </programme>
-  <programme start="20201124004500 -0600" stop="20201124010000 -0600" channel="Adn40">
-    <title lang="es">La billetera</title>
-  </programme>
-  <programme start="20201124010000 -0600" stop="20201124020000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201124020000 -0600" stop="20201124033000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201124033000 -0600" stop="20201124043000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201124043000 -0600" stop="20201124060000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201124060000 -0600" stop="20201124063000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201124160000 -0600" stop="20201124170000 -0600" channel="Adn40">
-    <title lang="es">Es Tendencia con Juan Pablo de</title>
-  </programme>
-  <programme start="20201124210000 -0600" stop="20201124230000 -0600" channel="Adn40">
-    <title lang="es">Casa Blanca 2020</title>
-  </programme>
-  <programme start="20201124230000 -0600" stop="20201125000000 -0600" channel="Adn40">
-    <title lang="es">Noticias Republica MX</title>
-  </programme>
-  <programme start="20201125003000 -0600" stop="20201125004500 -0600" channel="Adn40">
-    <title lang="es">La entrevista con Sarmiento</title>
-  </programme>
-  <programme start="20201125004500 -0600" stop="20201125010000 -0600" channel="Adn40">
-    <title lang="es">Nombres Nombres y Nombres</title>
-  </programme>
-  <programme start="20201125010000 -0600" stop="20201125013000 -0600" channel="Adn40">
-    <title lang="es">México bravo</title>
-  </programme>
-  <programme start="20201125013000 -0600" stop="20201125020000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201125020000 -0600" stop="20201125060000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201125060000 -0600" stop="20201125063000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201125063000 -0600" stop="20201125080000 -0600" channel="Adn40">
-    <title lang="es">Noticias para despertar</title>
-  </programme>
-  <programme start="20201125080000 -0600" stop="20201125090000 -0600" channel="Adn40">
-    <title lang="es">Así Amanece Leonardo Curzio</title>
-  </programme>
-  <programme start="20201125090000 -0600" stop="20201125110000 -0600" channel="Adn40">
-    <title lang="es">Es de Mañana con Mónica Garza</title>
-  </programme>
-  <programme start="20201125110000 -0600" stop="20201125120000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Vaitiare Mateos</title>
-  </programme>
-  <programme start="20201125120000 -0600" stop="20201125130000 -0600" channel="Adn40">
-    <title lang="es">Tu Mundo en Tiempo Real</title>
-  </programme>
-  <programme start="20201125130000 -0600" stop="20201125140000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Lucy Bravo</title>
-  </programme>
-  <programme start="20201125140000 -0600" stop="20201125160000 -0600" channel="Adn40">
-    <title lang="es">ADN40 en Línea</title>
-  </programme>
-  <programme start="20201125160000 -0600" stop="20201125170000 -0600" channel="Adn40">
-    <title lang="es">Es Tendencia</title>
-  </programme>
-  <programme start="20201125170000 -0600" stop="20201125180000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Romina Ramos</title>
-  </programme>
-  <programme start="20201125180000 -0600" stop="20201125190000 -0600" channel="Adn40">
-    <title lang="es">Noticias Luciana Wainer</title>
-  </programme>
-  <programme start="20201125190000 -0600" stop="20201125200000 -0600" channel="Adn40">
-    <title lang="es">Noticias Valentina Rodríguez</title>
-  </programme>
-  <programme start="20201125200000 -0600" stop="20201125210000 -0600" channel="Adn40">
-    <title lang="es">Tu Ciudad en Tiempo Real</title>
-  </programme>
-  <programme start="20201125210000 -0600" stop="20201125220000 -0600" channel="Adn40">
-    <title lang="es">Noticias con Alejandro Brofft</title>
-  </programme>
-  <programme start="20201125220000 -0600" stop="20201125230000 -0600" channel="Adn40">
-    <title lang="es">Es Noticia con Hannia Novell</title>
-  </programme>
-  <programme start="20201126003000 -0600" stop="20201126004500 -0600" channel="Adn40">
-    <title lang="es">Reporte ADN 40</title>
-  </programme>
-  <programme start="20201126004500 -0600" stop="20201126010000 -0600" channel="Adn40">
-    <title lang="es">Índice Económico</title>
-  </programme>
-  <programme start="20201126010000 -0600" stop="20201126030000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201126030000 -0600" stop="20201126050000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201126050000 -0600" stop="20201126060000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201127003000 -0600" stop="20201127010000 -0600" channel="Adn40">
-    <title lang="es">Desde las Cámaras</title>
-  </programme>
-  <programme start="20201127010000 -0600" stop="20201127013000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
-  </programme>
-  <programme start="20201127013000 -0600" stop="20201127020000 -0600" channel="Adn40">
-    <title lang="es">MDR</title>
-  </programme>
-  <programme start="20201128003000 -0600" stop="20201128004500 -0600" channel="Adn40">
-    <title lang="es">Al filo</title>
-  </programme>
-  <programme start="20201128004500 -0600" stop="20201128010000 -0600" channel="Adn40">
-    <title lang="es">La de 8</title>
-  </programme>
-  <programme start="20201128010000 -0600" stop="20201128013000 -0600" channel="Adn40">
-    <title lang="es">Infomercial</title>
   </programme>
 </tv>
