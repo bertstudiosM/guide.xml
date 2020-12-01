@@ -17,6 +17,7 @@
   </channel>
   <channel id="Canal de las estrellas">
     <display-name lang="es">Canal de las estrellas</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal 5 de México (XHGC)">
@@ -317,11 +318,11 @@
   <programme start="20201202033000 -0500" stop="20201202051000 -0500" channel="TelemundMx">
     <title lang="es">Silvana sin lana</title>
   </programme>
-  <programme start="20201202150000 -0500" stop="20201202170000 -0500" channel="TelemundMx">
-    <title lang="es">Una Maid en Manhattan</title>
-  </programme>
   <programme start="20201202170000 -0500" stop="20201202175000 -0500" channel="TelemundMx">
     <title lang="es">Cuidate de la camara</title>
+  </programme>
+  <programme start="20201203170000 -0500" stop="20201203175000 -0500" channel="TelemundMx">
+    <title lang="es">12 corazones</title>
   </programme>
   <programme start="20201201010000 -0500" stop="20201201020000 -0500" channel="Pasiones (Latinoamérica)">
     <title lang="es">Rosa Negra</title>
@@ -467,8 +468,8 @@
   <programme start="20201201230000 -0500" stop="20201202000000 -0500" channel="Pasiones (Latinoamérica)">
     <title lang="es">El otro lado del paraíso</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Pasiones (Latinoamérica)">
-    <title lang="es">El pañuelo rojo</title>
+  <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
   </programme>
   <programme start="20201201010000 -0500" stop="20201201020000 -0500" channel="Canal TUDN (Estados Unidos)">
     <title lang="es">Somos MLS</title>
@@ -562,6 +563,9 @@
   <programme start="20201202145000 -0500" stop="20201202170000 -0500" channel="Canal TUDN (Estados Unidos)">
     <title lang="es">Manchester United vs. Paris Saint-Germain</title>
   </programme>
+  <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Misión Europa</title>
+  </programme>
   <programme start="20201202180000 -0500" stop="20201202190000 -0500" channel="Canal TUDN (Estados Unidos)">
     <title lang="es">Línea de cuatro</title>
   </programme>
@@ -621,6 +625,253 @@
   </programme>
   <programme start="20201204230000 -0500" stop="20201205000000 -0500" channel="Canal TUDN (Estados Unidos)">
     <title lang="es">Línea de cuatro</title>
+  </programme>
+  <programme start="20201201003000 -0500" stop="20201201010000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20201201010000 -0500" stop="20201201020000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20201201020000 -0500" stop="20201201053000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201201053000 -0500" stop="20201201060000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201201060000 -0500" stop="20201201070000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201201070000 -0500" stop="20201201073000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20201201073000 -0500" stop="20201201090000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20201201090000 -0500" stop="20201201100000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20201201100000 -0500" stop="20201201130000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20201201130000 -0500" stop="20201201143000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20201201143000 -0500" stop="20201201153000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20201201153000 -0500" stop="20201201163000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20201201163000 -0500" stop="20201201173000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Quererlo Todo</title>
+  </programme>
+  <programme start="20201201173000 -0500" stop="20201201183000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20201201183000 -0500" stop="20201201193000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201201193000 -0500" stop="20201201203000 -0500" channel="Canal de las estrellas">
+    <title lang="es">La Mexicana y el Güero</title>
+    <title lang="xx">La Mexicana y el Güero</title>
+    <desc lang="es">Andrea, una estafadora profesional que inventa una familia acaudalada falsa para estafar al estadounidense Tyler Somers, un hombre bondadoso y millonario.</desc>
+    <credits>
+      <actor>Itatí Cantoral</actor>
+      <actor>Juan Soler</actor>
+      <actor>Luis Roberto Guzmán</actor>
+      <actor>Jacqueline Andere</actor>
+      <actor>Nora Salinas</actor>
+      <actor>Irán Castillo</actor>
+      <actor>Julio Camejo</actor>
+      <actor>Gala Montes</actor>
+    </credits>
+    <date>2020</date>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_mexicana_y_el_guero.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201201203000 -0500" stop="20201201213000 -0500" channel="Canal de las estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201201213000 -0500" stop="20201201223000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Vencer el Desamor</title>
+    <title lang="xx">Vencer el Desamor</title>
+    <desc lang="es">Cuatro mujeres de diferentes estratos sociales se ven obligadas a vivir bajo el mismo techo, ahora deberán aprender a superar las diferencias entre ellas.</desc>
+    <credits>
+      <actor>Claudia Álvarez</actor>
+      <actor>David Zepeda</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Altair Jarabo</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Emmanuel Palomares</actor>
+      <actor>Julia Urbini</actor>
+      <actor>Valentina Buzzurro</actor>
+      <producer>Silvia Cano</producer>
+    </credits>
+    <date>2020</date>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/vencer_el_desamor.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201201223000 -0500" stop="20201201233000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Imperio de Mentiras</title>
+    <title lang="xx">Imperio de Mentiras</title>
+    <desc lang="es">Tras la muerte del padre de Elisa, una joven adinerada, y la prometida de Leonardo, un expolicía, la pareja une sus fuerzas para investigar los asesinatos.</desc>
+    <credits>
+      <actor>Angelique Boyer</actor>
+      <actor>Andrés Palacios</actor>
+      <actor>Alejandro Camacho</actor>
+      <actor>Leticia Calderón</actor>
+      <actor>Susana González</actor>
+      <actor>Patricia Reyes Spindola</actor>
+      <actor>Hernán Mendoza</actor>
+      <actor>Iván Arana</actor>
+      <producer>Julieta de la O</producer>
+    </credits>
+    <date>2020</date>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/imperio_de_mentiras.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201201233000 -0500" stop="20201202000000 -0500" channel="Canal de las estrellas">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20201202000000 -0500" stop="20201202003000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Lorenza bebé a bordo</title>
+  </programme>
+  <programme start="20201202143000 -0500" stop="20201202153000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20201202173000 -0500" stop="20201202183000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20201203000000 -0500" stop="20201203010000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20201203010000 -0500" stop="20201203020000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20201203020000 -0500" stop="20201203053000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201203053000 -0500" stop="20201203060000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201203060000 -0500" stop="20201203063000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201203063000 -0500" stop="20201203070000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20201204000000 -0500" stop="20201204003000 -0500" channel="Canal de las estrellas">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20201204060000 -0500" stop="20201204063000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201204063000 -0500" stop="20201204070000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20201204070000 -0500" stop="20201204073000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20201204073000 -0500" stop="20201204090000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20201204090000 -0500" stop="20201204100000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20201204100000 -0500" stop="20201204130000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20201204130000 -0500" stop="20201204143000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20201204143000 -0500" stop="20201204153000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20201204153000 -0500" stop="20201204163000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20201204163000 -0500" stop="20201204173000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Quererlo Todo</title>
+  </programme>
+  <programme start="20201204173000 -0500" stop="20201204183000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20201204183000 -0500" stop="20201204193000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201204193000 -0500" stop="20201204203000 -0500" channel="Canal de las estrellas">
+    <title lang="es">La Mexicana y el Güero</title>
+    <title lang="xx">La Mexicana y el Güero</title>
+    <desc lang="es">Andrea, una estafadora profesional que inventa una familia acaudalada falsa para estafar al estadounidense Tyler Somers, un hombre bondadoso y millonario.</desc>
+    <credits>
+      <actor>Itatí Cantoral</actor>
+      <actor>Juan Soler</actor>
+      <actor>Luis Roberto Guzmán</actor>
+      <actor>Jacqueline Andere</actor>
+      <actor>Nora Salinas</actor>
+      <actor>Irán Castillo</actor>
+      <actor>Julio Camejo</actor>
+      <actor>Gala Montes</actor>
+    </credits>
+    <date>2020</date>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_mexicana_y_el_guero.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201204203000 -0500" stop="20201204213000 -0500" channel="Canal de las estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201204213000 -0500" stop="20201204223000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Vencer el Desamor</title>
+    <title lang="xx">Vencer el Desamor</title>
+    <desc lang="es">Cuatro mujeres de diferentes estratos sociales se ven obligadas a vivir bajo el mismo techo, ahora deberán aprender a superar las diferencias entre ellas.</desc>
+    <credits>
+      <actor>Claudia Álvarez</actor>
+      <actor>David Zepeda</actor>
+      <actor>Daniela Romo</actor>
+      <actor>Altair Jarabo</actor>
+      <actor>Juan Diego Covarrubias</actor>
+      <actor>Emmanuel Palomares</actor>
+      <actor>Julia Urbini</actor>
+      <actor>Valentina Buzzurro</actor>
+      <producer>Silvia Cano</producer>
+    </credits>
+    <date>2020</date>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/vencer_el_desamor.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201204223000 -0500" stop="20201204233000 -0500" channel="Canal de las estrellas">
+    <title lang="es">Imperio de Mentiras</title>
+    <title lang="xx">Imperio de Mentiras</title>
+    <desc lang="es">Tras la muerte del padre de Elisa, una joven adinerada, y la prometida de Leonardo, un expolicía, la pareja une sus fuerzas para investigar los asesinatos.</desc>
+    <credits>
+      <actor>Angelique Boyer</actor>
+      <actor>Andrés Palacios</actor>
+      <actor>Alejandro Camacho</actor>
+      <actor>Leticia Calderón</actor>
+      <actor>Susana González</actor>
+      <actor>Patricia Reyes Spindola</actor>
+      <actor>Hernán Mendoza</actor>
+      <actor>Iván Arana</actor>
+      <producer>Julieta de la O</producer>
+    </credits>
+    <date>2020</date>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/imperio_de_mentiras.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201204233000 -0500" stop="20201205000000 -0500" channel="Canal de las estrellas">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
   </programme>
   <programme start="20201201003000 -0500" stop="20201201010000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Gotham</title>
@@ -814,8 +1065,18 @@
   <programme start="20201202100000 -0500" stop="20201202103000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Power Players</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Miraculous II</title>
+  <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
   </programme>
   <programme start="20201203010000 -0500" stop="20201203013000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Mamá</title>
@@ -1467,8 +1728,8 @@
   <programme start="20201202130000 -0500" stop="20201202150000 -0500" channel="Canal Estrella TV ">
     <title lang="es">Como Perros Rabiosos</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Canal Estrella TV ">
-    <title lang="es">Chisme en vivo</title>
+  <programme start="20201202173000 -0500" stop="20201202180000 -0500" channel="Canal Estrella TV ">
+    <title lang="es">Noticiero Estrella TV</title>
   </programme>
   <programme start="20201202210000 -0500" stop="20201202220000 -0500" channel="Canal Estrella TV ">
     <title lang="es">Tu-Night</title>
@@ -1809,9 +2070,6 @@
     <title lang="es">America's Got Talent</title>
     <episode-num system="onscreen">S15 E22</episode-num>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Canal Sony Entertainment Television (Latinoamérica)">
-    <title lang="es">Shark Tank</title>
-  </programme>
   <programme start="20201202170000 -0500" stop="20201202190000 -0500" channel="Canal Sony Entertainment Television (Latinoamérica)">
     <title lang="es">Balto</title>
   </programme>
@@ -2079,12 +2337,8 @@
   <programme start="20201202233000 -0500" stop="20201203001500 -0500" channel="Canal Azteca Uno">
     <title lang="es">Hechos de la noche</title>
   </programme>
-  <programme start="20201203160000 -0500" stop="20201203173000 -0500" channel="Canal Azteca Uno">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  <programme start="20201203173000 -0500" stop="20201203183000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Todos quieren fama</title>
   </programme>
   <programme start="20201203203000 -0500" stop="20201203233000 -0500" channel="Canal Azteca Uno">
     <title lang="es">MasterChef</title>
@@ -2178,6 +2432,9 @@
   </programme>
   <programme start="20201202160000 -0500" stop="20201202173000 -0500" channel="Canal AZ Cinema">
     <title lang="es">Los Hijos de Satanás</title>
+  </programme>
+  <programme start="20201202173000 -0500" stop="20201202180000 -0500" channel="Canal AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
   </programme>
   <programme start="20201202180000 -0500" stop="20201202193000 -0500" channel="Canal AZ Cinema">
     <title lang="es">Delirio Tropical</title>
@@ -2325,9 +2582,6 @@
   </programme>
   <programme start="20201201223000 -0500" stop="20201201233000 -0500" channel="Canal Telemundo Puerto Rico">
     <title lang="es">Al rojo vivo</title>
-  </programme>
-  <programme start="20201202150000 -0500" stop="20201202170000 -0500" channel="Canal Telemundo Puerto Rico">
-    <title lang="es">Telenoticias</title>
   </programme>
   <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="Canal Telemundo Puerto Rico">
     <title lang="es">Cennet</title>
@@ -2770,8 +3024,8 @@
   <programme start="20201202043500 -0500" stop="20201202054000 -0500" channel="Unicable">
     <title lang="es">Montse &amp; Joe</title>
   </programme>
-  <programme start="20201202153000 -0500" stop="20201202170000 -0500" channel="Unicable">
-    <title lang="es">100 días para enamorarnos</title>
+  <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="Unicable">
+    <title lang="es">Primer impacto</title>
   </programme>
   <programme start="20201202223000 -0500" stop="20201202233000 -0500" channel="Unicable">
     <title lang="es">Netas divinas</title>
@@ -3122,8 +3376,8 @@
   <programme start="20201203110000 -0500" stop="20201203120000 -0500" channel="VideoRola">
     <title lang="es">El Ranking</title>
   </programme>
-  <programme start="20201203160000 -0500" stop="20201203170000 -0500" channel="VideoRola">
-    <title lang="es">Videorecuerdos</title>
+  <programme start="20201203170000 -0500" stop="20201203180000 -0500" channel="VideoRola">
+    <title lang="es">Música Para Tus Ojos</title>
   </programme>
   <programme start="20201203210000 -0500" stop="20201203220000 -0500" channel="VideoRola">
     <title lang="es">En Concierto</title>
@@ -3194,8 +3448,8 @@
   <programme start="20201201231000 -0500" stop="20201202000000 -0500" channel="Canal TLNovelas (México)">
     <title lang="es">Fuego en la sangre</title>
   </programme>
-  <programme start="20201202150000 -0500" stop="20201202173000 -0500" channel="Canal TLNovelas (México)">
-    <title lang="es">Clase 406</title>
+  <programme start="20201202173000 -0500" stop="20201202190500 -0500" channel="Canal TLNovelas (México)">
+    <title lang="es">La mentira</title>
   </programme>
   <programme start="20201201003000 -0500" stop="20201201033000 -0500" channel="AztecaGuate">
     <title lang="es">Venga la alegría</title>
@@ -3273,12 +3527,8 @@
   <programme start="20201201233000 -0500" stop="20201202000000 -0500" channel="AztecaGuate">
     <title lang="es">Susana 360</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="AztecaGuate">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <date>1996</date>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="AztecaGuate">
+    <title lang="es">Azteca hits</title>
   </programme>
   <programme start="20201201003000 -0500" stop="20201201004500 -0500" channel="Adn40">
     <title lang="es">Primer Círculo</title>
@@ -3430,6 +3680,9 @@
   <programme start="20201204160000 -0500" stop="20201204170000 -0500" channel="Adn40">
     <title lang="es">Es Tendencia</title>
   </programme>
+  <programme start="20201204170000 -0500" stop="20201204180000 -0500" channel="Adn40">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
   <programme start="20201204210000 -0500" stop="20201204220000 -0500" channel="Adn40">
     <title lang="es">Noticias con Alejandro Brofft</title>
   </programme>
@@ -3547,9 +3800,6 @@
   <programme start="20201202140000 -0500" stop="20201202150000 -0500" channel="MTVHits">
     <title lang="es">Alterlatinos</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="MTVHits">
-    <title lang="es">MTV Hits Playlistism</title>
-  </programme>
   <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="MTVHits">
     <title lang="es">Hitlist</title>
   </programme>
@@ -3574,13 +3824,16 @@
   <programme start="20201203020000 -0500" stop="20201203030000 -0500" channel="MTVHits">
     <title lang="es">Alterlatinos</title>
   </programme>
-  <programme start="20201203080000 -0500" stop="20201203090000 -0500" channel="MTVHits">
+  <programme start="20201203173000 -0500" stop="20201203180000 -0500" channel="MTVHits">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20201204080000 -0500" stop="20201204090000 -0500" channel="MTVHits">
     <title lang="es">Club MTV</title>
   </programme>
-  <programme start="20201203140000 -0500" stop="20201203150000 -0500" channel="MTVHits">
+  <programme start="20201204140000 -0500" stop="20201204150000 -0500" channel="MTVHits">
     <title lang="es">Club MTV</title>
   </programme>
-  <programme start="20201203200000 -0500" stop="20201203210000 -0500" channel="MTVHits">
+  <programme start="20201204200000 -0500" stop="20201204210000 -0500" channel="MTVHits">
     <title lang="es">Club MTV</title>
   </programme>
   <programme start="20201201010000 -0500" stop="20201201013000 -0500" channel="Universo">
@@ -4179,9 +4432,6 @@
   <programme start="20201202150000 -0500" stop="20201202160000 -0500" channel="SonyMex">
     <title lang="es">America's Got Talent</title>
     <episode-num system="onscreen">S15 E22</episode-num>
-  </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="SonyMex">
-    <title lang="es">Shark Tank</title>
   </programme>
   <programme start="20201202170000 -0500" stop="20201202190000 -0500" channel="SonyMex">
     <title lang="es">Balto</title>
@@ -5229,26 +5479,26 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20201202163000 -0500" stop="20201202172500 -0500" channel="Canal AXN (México)">
-    <title lang="es">CSI: Miami</title>
-    <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</desc>
+  <programme start="20201202172500 -0500" stop="20201202182000 -0500" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+    <title lang="xx">NCIS</title>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.</desc>
     <credits>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Rory Cochrane</actor>
-      <actor>Kim Delaney</actor>
-      <actor>Sofia Milos</actor>
-      <actor>Jonathan Togo</actor>
-      <producer>Marc Dube</producer>
-      <composer>Kevin Kiner</composer>
-      <composer>Jeff Cardoni</composer>
+      <actor>Mark Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Sean Murray</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Lauren Holly</actor>
+      <producer>David Bellisario</producer>
+      <producer>Avery C. Drewe</producer>
+      <composer>Numeriklab</composer>
     </credits>
-    <date>2002</date>
+    <date>2003</date>
     <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_miami.jpg" />
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis.jpg" />
     <rating>
       <value>TV-14</value>
     </rating>
@@ -6269,8 +6519,8 @@
   <programme start="20201201230000 -0500" stop="20201202000000 -0500" channel="Canal Telehit Plus">
     <title lang="es">La calle suena plus</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Canal Telehit Plus">
-    <title lang="es">Fcking Love Plus</title>
+  <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="Canal Telehit Plus">
+    <title lang="es">La calle suena plus</title>
   </programme>
   <programme start="20201201010000 -0500" stop="20201201023000 -0500" channel="Canal Bandamax">
     <title lang="es">Las mas sonadas</title>
@@ -7318,6 +7568,9 @@
   <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Scooby Doo Navidades</title>
   </programme>
+  <programme start="20201202170000 -0500" stop="20201202180000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Steven Universe Futuro</title>
+  </programme>
   <programme start="20201202184500 -0500" stop="20201202190000 -0500" channel="Canal Cartoon Network (México)">
     <title lang="es">Oswaldo</title>
   </programme>
@@ -7632,9 +7885,6 @@
   <programme start="20201202140000 -0500" stop="20201202160000 -0500" channel="Canal Claro Sports">
     <title lang="es">ATP Lima Challenger Copa Claro</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Canal Claro Sports">
-    <title lang="es">Marca Claro radio</title>
-  </programme>
   <programme start="20201202170000 -0500" stop="20201202175000 -0500" channel="Canal Claro Sports">
     <title lang="es">Deportes en Claro</title>
   </programme>
@@ -7829,7 +8079,7 @@
   <programme start="20201201170000 -0500" stop="20201201210000 -0500" channel="Fox Sports Mexico">
     <title lang="es">Fox Sports</title>
   </programme>
-  <programme start="20201202130000 -0500" stop="20201202170000 -0500" channel="Fox Sports Mexico">
+  <programme start="20201202170000 -0500" stop="20201202210000 -0500" channel="Fox Sports Mexico">
     <title lang="es">Fox Sports</title>
   </programme>
   <programme start="20201201003000 -0500" stop="20201201013000 -0500" channel="Azteca 7">
@@ -8002,8 +8252,8 @@
   <programme start="20201202143000 -0500" stop="20201202153000 -0500" channel="Azteca 7">
     <title lang="es">Bakugan</title>
   </programme>
-  <programme start="20201202163000 -0500" stop="20201202173000 -0500" channel="Azteca 7">
-    <title lang="es">Escandalosos</title>
+  <programme start="20201202173000 -0500" stop="20201202180000 -0500" channel="Azteca 7">
+    <title lang="es">Recargado de Risa</title>
   </programme>
   <programme start="20201203003000 -0500" stop="20201203010000 -0500" channel="Azteca 7">
     <title lang="es">Macgyver</title>
@@ -8349,20 +8599,8 @@
   <programme start="20201202144500 -0500" stop="20201202150000 -0500" channel="Boomerang">
     <title lang="es">Dorothy y el Mago de Oz</title>
   </programme>
-  <programme start="20201202160000 -0500" stop="20201202170000 -0500" channel="Boomerang">
-    <title lang="es">Mr. Bean</title>
-    <title lang="xx">Mr. Bean: The Animated Series</title>
-    <desc lang="es">Mr. Bean, un hombre solitario junto a su osito de peluche Teddy viven mil y una aventuras en las calles de Londres con su excéntrica forma de comportarse.</desc>
-    <credits>
-      <producer>Claudia Lloyd</producer>
-      <producer>Tom Beattie</producer>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mr_bean.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20201202173000 -0500" stop="20201202180000 -0500" channel="Boomerang">
+    <title lang="es">Ben 10</title>
   </programme>
   <programme start="20201202190000 -0500" stop="20201202191500 -0500" channel="Boomerang">
     <title lang="es">Mr. Bean</title>
@@ -8818,6 +9056,25 @@
   <programme start="20201203145000 -0500" stop="20201203170000 -0500" channel="Canal ESPN 2 México">
     <title lang="es">AZ Alkmaar vs. Napoli</title>
   </programme>
+  <programme start="20201203170000 -0500" stop="20201203180000 -0500" channel="Canal ESPN 2 México">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
   <programme start="20201203190000 -0500" stop="20201203195500 -0500" channel="Canal ESPN 2 México">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
@@ -9028,8 +9285,8 @@
   <programme start="20201204153000 -0500" stop="20201204160000 -0500" channel="guatevision">
     <title lang="es">Traveling chef</title>
   </programme>
-  <programme start="20201204160000 -0500" stop="20201204170000 -0500" channel="guatevision">
-    <title lang="es">Natur líder</title>
+  <programme start="20201204173000 -0500" stop="20201204180000 -0500" channel="guatevision">
+    <title lang="es">Guate música juvenil</title>
   </programme>
   <programme start="20201204200000 -0500" stop="20201204203000 -0500" channel="guatevision">
     <title lang="es">Tu eres Guatemala (Cobán)</title>
