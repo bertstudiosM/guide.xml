@@ -196,8 +196,56 @@
     <display-name lang="es">adn 40</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+ <programme start="20220118000000 -0600" stop="20220118010000 -0600" channel="Univision East">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20220118010000 -0600" stop="20220118020000 -0600" channel="Univision East">
+    <title lang="es">Las tontas no van al cielo</title>
+  </programme>
+  <programme start="20220118020000 -0600" stop="20220118030000 -0600" channel="Univision East">
+    <title lang="es">¿Qué le pasa a mi familia?</title>
+  </programme>
+  <programme start="20220118030000 -0600" stop="20220118033000 -0600" channel="Univision East">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20220118033000 -0600" stop="20220118040000 -0600" channel="Univision East">
+    <title lang="es">La familia P. Luche</title>
+  </programme>
   <programme start="20220118040000 -0600" stop="20220118050000 -0600" channel="Univision East">
     <title lang="es">El gordo y la flaca</title>
+  </programme>
+  <programme start="20220118050000 -0600" stop="20220118053500 -0600" channel="Univision East">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20220118053500 -0600" stop="20220118060000 -0600" channel="Univision East">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20220118053500 -0600" stop="20220118060000 -0600" channel="Univision East">
+    <title lang="es">Noticiero Univision: Edición nocturna</title>
+  </programme>
+  <programme start="20220118060000 -0600" stop="20220118070000 -0600" channel="Univision East">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220118070000 -0600" stop="20220118110000 -0600" channel="Univision East">
+    <title lang="es">¡Despierta América!</title>
+  </programme>
+  <programme start="20220118110000 -0600" stop="20220118120000 -0600" channel="Univision East">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220118120000 -0600" stop="20220118123000 -0600" channel="Univision East">
+    <title lang="es">Noticiero Univision: Edición digital</title>
+  </programme>
+  <programme start="20220118123000 -0600" stop="20220118010000 -0600" channel="Univision East">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20220118010000 -0600" stop="20220118020000 -0600" channel="Univision East">
+    <title lang="es">Hoy</title>
+  </programme>
+  <programme start="20220118020000 -0600" stop="20220118040000 -0600" channel="Univision East">
+    <title lang="es">Amor eterno</title>
+  </programme>
+  <programme start="20220118040000 -0600" stop="20220118050000-0600" channel="Univision East">
+    <title lang="es">El Gordo y la flaca</title>
   </programme>
   <programme start="20220118050000 -0600" stop="20220118060000-0600" channel="Univision East">
     <title lang="es">Primer impacto</title>
