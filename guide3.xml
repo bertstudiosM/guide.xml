@@ -1,0 +1,16 @@
+<channel id="UnivisionEste.us">
+<display-name>Univisión Este</display-name>
+<url>https://www.univision.com/shows/univision-guia-programacion-de-television-shows-novelas-y-series</url>
+</channel>
+ <programme start="202201230955000 -0600" stop="20220123105500 -0600" channel="Univisión Este">
+    <title lang="es">Al punto con Jorge Ramos</title>
+  </programme>
+  <programme start="20220123105500 -0600" stop="20220123115500 -0600" channel="Univisión Este">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20220123115500 -0600" stop="20220123125500 -0600" channel="Univisión Este">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220123125500 -0600" stop="20220123150000 -0600" channel="Univision East">
+    <title lang="es">Fútbol Mexicano Primera División</title>
+  </programme>
